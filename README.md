@@ -1,2 +1,1 @@
-# mika
 ProgrammingAssignment2
